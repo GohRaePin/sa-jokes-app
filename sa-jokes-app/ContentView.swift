@@ -87,7 +87,7 @@ struct ContentView: View {
                 isPositive = true
                 displaySheet = true
             }
-            Button("😒") {
+            Button("🤢") {
                 print("you're a terrible person")
                 isPositive = false
                 displaySheet = true
